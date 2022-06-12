@@ -1,4 +1,4 @@
-# Contextual Distributive Preferences: The role of COVID-19 pandemic on individual beliefs towards inequality and welfare in Italy
+# Contextual distributive preferences: The role of COVID-19 pandemic on individual beliefs towards inequality and welfare in Italy
 
 
 **Gonzalo Franetovic¹**
