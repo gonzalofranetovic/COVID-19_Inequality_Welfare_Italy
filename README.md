@@ -15,3 +15,5 @@ Two years of COVID-19 in Italy: Values, attitudes and behaviours in the pandemic
 Organised by: spsTREND Lab, University of Milan, www.spstrend.it  
 
 Presented in June 2022
+
+The data and analysis will be available in the repository once it is publicly released by SPS Trend.
